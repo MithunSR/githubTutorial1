@@ -1,0 +1,3 @@
+#help
+this document is created to assist you when you are encountered with problems.
+
